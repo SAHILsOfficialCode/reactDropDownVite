@@ -13,7 +13,7 @@ export const Dropdown = () => {
         style={{ display: "flex", padding: "10px 30px 10px 30px" }}
       >
         {selected.length ? selected : "Color"}{" "}
-        {/* Display "Select" if nothing is selected */}
+        {/* Display "Color" if nothing is selected */}
       </button>
       {show && (
         <ul className="dropdown-list">
