@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Dropdown } from "./component/Dropdown"; // Adjust the path accordingly
+import { Dropdown } from "./component/Dropdown";
 
 const App = () => {
   return (
